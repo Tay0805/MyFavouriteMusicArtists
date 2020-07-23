@@ -1,0 +1,50 @@
+body{
+    background-color: maroon;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border: 10px groove black;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: gold;
+    border: 10px groove gold;
+    font-size: 70px;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Sonsie One', cursive;
+}
+
+
+p{
+    font-size: 29px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    font-family: 'Stardos Stencil', cursive;
+}
+
+h2{
+    background-color: black;
+    color: gold;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    border: groove whitesmoke;
+    font-family: 'Artifika', serif;
+    height: 100px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}

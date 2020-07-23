@@ -1,0 +1,85 @@
+body{
+    background-color: navy;
+}
+
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    border: 10px groove yellow;
+    background-color: black;
+    color: yellow;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Miltonian', cursive;
+}
+
+.box{
+    border: 10px groove yellow;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+p{
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Eczar', serif;
+
+}
+
+.age{
+    border: 10px groove yellow;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    height: 230px;
+}
+
+.song{
+    border: 10px groove yellow;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    height: 230px;
+}
+
+.album{
+    border: 10px groove yellow;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    height: 230px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Miltonian', cursive;
+    color: yellow;
+}
+
+.lyrics{
+    border: 10px groove yellow;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px groove yellow;
+}

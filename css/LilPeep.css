@@ -1,0 +1,94 @@
+body{
+    background-color: darkred;
+
+}
+
+h1
+{
+    font-size: 100px;
+    text-align: center;
+    background-color: black;
+    border: 15px groove gold;
+    color: gold;
+    font-family: 'Mountains of Christmas', cursive;
+    padding: 20px;
+
+}
+
+img{
+    width: 270px;
+    height: 300px;
+    border: 10px groove black;
+    margin: 10px;
+
+}
+
+.box{
+    border: 10px groove gold;
+    border-width: 20px;
+    width: 1110px;
+    padding: 20px;
+    font-size: 50px;
+    background-color: black;
+    
+}
+
+p{
+    font-size: 30px;
+    color: gold;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Rowdies', cursive;
+
+
+}
+
+.favsongbox{
+    border: 10px groove white;
+    width: 250px;
+    margin: 10px;
+    height: 300px;
+    background-color: black;
+    text-align: center;
+    
+}
+
+.bestbox{
+    border: 10px groove white;
+    width: 240px;
+    margin: 10px;
+    height: 300px;
+    background-color: black;
+    text-align: center; 
+}
+
+.lyrics{
+    border: 10px groove gold;
+    border-width: 20px;
+    width: 550px;
+    font-size: 50px;
+    background-color: black; 
+    margin: 10px;
+    padding:10px;
+    height: 470px;
+}
+
+.infobox{
+    border: 10px groove gold;
+    width: 450px;
+    margin: 10px;
+    padding: 20px;
+    background-color: black;
+    border-width: 20px;
+    font-size: 50px;
+    height: 470px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}

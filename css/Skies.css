@@ -1,0 +1,75 @@
+body{
+    background-color: palevioletred;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: teal;
+    border: 10px groove teal;
+    text-align: center;
+    font-size: 100px;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.info{
+    border: 10px groove teal;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+}
+
+p{
+    color: teal;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+img{
+    width: 320px;
+    height: 320px;
+    border: 10px groove teal;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+}
+
+.age{
+    border: 10px groove teal;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+}
+
+.song{
+    border: 10px groove teal;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    height: 200px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: teal;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.lyrics{
+    background-color: black;
+    border: 10px groove teal;
+    margin: 10px;
+    padding: 10px;
+}

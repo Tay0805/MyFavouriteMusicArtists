@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    border: 10px groove red;
+    padding: 10px;
+    margin: 20px;
+    color: white;
+    font-family: 'Jolly Lodger', cursive;
+
+}
+
+.nav{
+    background-color: white;
+}
+
+.nav a:hover{
+    background-color: black;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.info{
+    border: 10px groove red;
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    width: 300px;
+    height: 340px;
+    border: 10px groove red;
+    padding: 10px;
+    margin: 30px;
+}
+
+.age{
+    padding: 10px;
+    margin:30px;
+}
+
+.song{
+    border: 10px groove red;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Jolly Lodger', cursive;
+}
+
+.lyrics{
+    border: 10px groove red;
+    margin: 10px;
+    padding: 10px;
+
+}
+

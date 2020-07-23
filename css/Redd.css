@@ -1,0 +1,76 @@
+body{
+    background-color: royalblue;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    border: 10px groove black;
+    padding: 20px;
+    margin: 30px;
+    background-color: white;
+    color: black;
+    font-family: 'Finger Paint', cursive;
+}
+
+.info{
+    border: 10px groove black;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+p{
+    font-size: 27px;
+    color: black;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border: 10px groove black;
+}
+
+.age{
+    text-align: center;
+    background-color: white;
+    border: 10px groove black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.song{
+    border: 10px groove black;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+}
+
+.lyrics{
+    border: 10px groove black;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-family: 'Finger Paint', cursive;
+
+}

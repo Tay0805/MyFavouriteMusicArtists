@@ -1,0 +1,99 @@
+body{
+    background-color: purple;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    border: 10px groove black;
+    margin: 20px;
+    background-color: white;
+    font-family: 'Nosifer', cursive;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+    margin: 20px;
+    padding: 10px;
+    border: 10px outset whitesmoke;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 23px;
+    font-family: 'Flamenco', cursive;
+}
+
+p1{
+    font-size: 31px;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Flamenco', cursive;
+    text-align: center; 
+}
+
+.box{
+    border: 10px outset white;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    height: 250px;
+    background-color: black;
+}
+
+.age{
+    border: 10px outset white;
+    width: 320px;
+    margin: 20px;
+    padding: 10px;
+    height: 250px;
+    background-color: black;
+}
+
+.album{
+    border: 10px outset white;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    height: 250px;
+    background-color: black; 
+}
+
+.lyrics{
+    border: 10px outset white;
+    width: 1110px;
+    font-size: 40px;
+    background-color: black; 
+    margin: 10px;
+    padding:20px;
+    height: 470px;
+}
+
+p2{
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Flamenco', cursive;
+    text-align: center; 
+}
+
+h2{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    color: white;
+}
+

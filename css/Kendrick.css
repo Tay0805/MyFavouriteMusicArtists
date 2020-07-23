@@ -1,0 +1,75 @@
+body{
+    background-color: olive;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    border: 10px groove black;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    background-color: white;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+.info{
+    border: 10px groove black;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    border: 10px groove black;
+    padding: 10px;
+    margin: 15px;
+    background-color: white;
+}
+
+.age{
+    margin: 20px;
+    padding: 20px;
+    border: 10px groove black;
+    background-color: white;
+}
+
+.song{
+    margin: 20px;
+    padding: 20px;
+    border: 10px groove black;
+    background-color: white;
+    height: 200px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+    color: black;
+}
+
+.lyrics{
+    border: 10px groove black;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
